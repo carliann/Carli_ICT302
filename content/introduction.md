@@ -6,7 +6,7 @@ draft: false
 
 Hi! I am Carli Carpenter, and this site is for my class, ICT302, at the University of Kentucky. **I am graduating this semester!** While I have been at UK, I have grown, changed, and encountered so many great experiences.
 + I have completely changed the direction of my career path
-+ I joined a soroity (see the photo below) and gained tons of really great friends
++ I joined a sorority (see the photo below) and gained tons of really great friends
 + I got to go to football games and basketball games with the student section experience- *GO CATS*
 + I have gained a really great education with an emphasis on preparing me for professional environments
 
