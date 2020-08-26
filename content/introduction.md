@@ -11,4 +11,6 @@ Hi! I am Carli Carpenter, and this site is for my class, ICT302, at the Universi
 + I have gained a really great education with an emphasis on preparing me for professional environments
 
 I am going to be sad to leave UK, but am excited to finish my time here, as a student, in the most positive way possible!
+
+
 ![This is a picture of me during sorority recruitment 2019](https://serene-morse-0e258c.netlify.app/HugoIntro.JPG)
