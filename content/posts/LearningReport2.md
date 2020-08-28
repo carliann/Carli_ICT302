@@ -4,6 +4,7 @@ date: 2020-08-28T00:00:00-04:00
 draft: false
 ---
 
+**This week I was able to:**
 + I can identify and define key concepts in (web) content management.
 + I can describe and compare content management systems.
 + I can manage content using established workflows.
