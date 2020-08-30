@@ -5,8 +5,10 @@ draft: false
 ---
 
 **This week I was able to:**
-+ I can identify and define key concepts in (web) content management.
-+ I can describe and compare content management systems.
-+ I can manage content using established workflows.
-+ I can identify and employ technologies related to content management.
-+ I can find and use resources for self-directed learning.
++ Identify and define key concepts in (web) content management. I learned that content defined as material that is used for human consumption and must be edited a few times.
++ Identify and employ technologies related to content management.
++ Find and use resources for self-directed learning. I learned some markdown and html language on my own, using the resourses Dr. Greenhalgh provided.
+
+**This week I did not address:**
++ Describing and comparing content management systems.
++ Managing content using established workflows.
