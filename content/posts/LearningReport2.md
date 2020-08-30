@@ -10,6 +10,7 @@ draft: false
 + Find and use resources for self-directed learning. I learned some markdown and html language on my own, using the resourses Dr. Greenhalgh provided.
 
 
+
 **This week I did not address:**
 + Describing and comparing content management systems.
 + Managing content using established workflows.
