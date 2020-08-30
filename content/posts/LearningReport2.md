@@ -9,6 +9,7 @@ draft: false
 + Identify and employ technologies related to content management. I continued using GitHub and Hugo to make this learning report post and an introduction page about myself that included adding a picture, markdown elements to organize text, and a link to the main page, so users can easily access the introduction page.
 + Find and use resources for self-directed learning. I learned some markdown and html language on my own, using the resourses Dr. Greenhalgh provided.
 
+
 **This week I did not address:**
 + Describing and comparing content management systems.
 + Managing content using established workflows.
