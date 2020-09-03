@@ -11,9 +11,10 @@ A content management team will typically have an editor, developer, administrato
 
 *Kanban* is a type of workflow strategy that shows the progress of a project with multiple columns. Traditionally, these columns are defined by a progress status and a task may only move to another column once it has reached the subsequent progress status.
 
++ Manage content using established workflows. During class, my group set up a workflow in MS Teams' Kanban to structure how group blog posts should be completed. We used due dates and tasks outlined in Canvas to construct this workflow.
 + Identify and employ technologies related to content management. Working in MS Teams, I created a Kanban to prepare for group work later in the semester.
 + Find and use resources for self-directed learning. Dr. Greenhalgh set up an assignment to explore the Kanban app in MS Teams, so I was able to figure out how to: create buckets, tasks, set priorites and due dates, change colors of tasks, assign people to tasks, set progress statuses of tasks, and make checklists within tasks.
-+ Manage content using established workflows. During class, my group set up a workflow in MS Teams' Kanban to structure how group blog posts should be completed. We used due dates and tasks outlined in Canvas to construct this workflow.
+
 
 **This week I did not address:**
 + Describing and comparing content management systems.
