@@ -13,6 +13,7 @@ A *Kanban* is a type of workflow strategy that shows the progress of a project w
 
 + Identify and employ technologies related to content management. Working in MS Teams, I created a Kanban to prepare for group work later in the semester.
 + Find and use resources for self-directed learning. Dr. Greenhalgh set up an assignment to explore the Kanban app in MS Teams, so I was able to figure out how to: create buckets, tasks, set priorites and due dates, change colors of tasks, assign people to tasks, set progress statuses of tasks, and make checklists within tasks.
+
 **This week I did not address:**
 
 + Describing and comparing content management systems.
