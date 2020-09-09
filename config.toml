@@ -40,20 +40,17 @@ name = "Introduction"
 weight = 1
 url = "/introduction/"
 
-[params]
 [[menu.main]]
 name = "Test Annotated Definitions"
-weight = 1
+weight = 2
 url = "/TestAnnotatedDef/"
 
-[params]
 [[menu.main]]
 name = "Test Resource Guide"
-weight = 1
+weight = 3
 url = "/TestResourceGuide/"
 
-[params]
 [[menu.main]]
 name = "Test Walkthrough"
-weight = 1
+weight = 4
 url = "/TestWalkthrough/"
