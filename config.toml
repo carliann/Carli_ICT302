@@ -44,4 +44,4 @@ url = "/introduction/"
 [[menu.main]]
 name = "Test Annotated Definitions"
 weight = 1
-url = "/testannotateddef/"
+url = "/TestAnnotatedDef/"
