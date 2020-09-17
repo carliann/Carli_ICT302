@@ -35,6 +35,10 @@ HUGO_VERSION = "0.74.3"
 HUGO_ENABLEGITINFO = "true"
 
 [params]
+author: Name of the author
+description: Short description of the author
+avatar: Path of file containing the author avatar image
+
 [[menu.main]]
 name = "Introduction"
 weight = 1
