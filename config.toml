@@ -35,8 +35,8 @@ HUGO_VERSION = "0.74.3"
 HUGO_ENABLEGITINFO = "true"
 
 [params]
-author: "Carli Carpenter"
-description: "Blog for class, ICT302, at the University of Kentucky"
+author = "Carli Carpenter"
+description = "Blog for class, ICT302, at the University of Kentucky"
 
 [[menu.main]]
 name = "Introduction"
