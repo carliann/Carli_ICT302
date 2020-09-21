@@ -5,7 +5,7 @@ draft: false
 ---
 
 **This week I was able to:**
-+ Identify and define key concepts in (web) content management.
++ Identify and define key concepts in (web) content management. This week I learned the difference between content and presentation. Presentation is just the way that content is displayed. When the presentation is changed, the content should stay the same. 
 + Identify and employ technologies related to content management.
 + Find and use resources for self-directed learning.
 
