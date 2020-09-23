@@ -37,7 +37,7 @@ HUGO_ENABLEGITINFO = "true"
 [params]
 author = "Carli Carpenter"
 description = "blog for class, ICT302, at the University of Kentucky"
-avatar = 
+avatar = ![This is a picture of me during sorority recruitment 2019](https://serene-morse-0e258c.netlify.app/HugoIntro.JPG)
 
 [params.style]
 darkestColor = "#d35050"
