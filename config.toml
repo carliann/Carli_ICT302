@@ -1,7 +1,7 @@
 baseURL = "https://serene-morse-0e258c.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "hugo-theme-m10c-master"
+theme = "ananke"
 
 [build]
 publish = "public"
@@ -40,14 +40,17 @@ name = "Introduction"
 weight = 1
 url = "/introduction/"
 
+[[menu.main]]
 name = "Test Annotated Definitions"
 weight = 2
 url = "/TestAnnotatedDef/"
 
+[[menu.main]]
 name = "Test Resource Guide"
 weight = 3
 url = "/TestResourceGuide/"
 
+[[menu.main]]
 name = "Test Walkthrough"
 weight = 4
 url = "/TestWalkthrough/"
