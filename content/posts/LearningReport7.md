@@ -5,8 +5,8 @@ draft: false
 ---
 
 **This week I was able to:**
-+ Identify and define key concepts in (web) content management.
++ Identify and define key concepts in (web) content management. I reviewed the different features of CMSs from a prior week and learned about Barker's advice for comparing CMSs. 
 + Describing and comparing content management systems. During this week's explore activity, I pretended to be a blogger that would choose between Hugo and WordPress. I, ultimately, decided by looking at the differences between the features of both sites and how they would align with my needs for my blog.
 + Manage content using established workflows. My group used our MS Teams' Kanban to organize the tasks for our blog post this week, as well as the midterm assignments, the resource guide and the annotated definitions.
-+ Identify and employ technologies related to content management.
++ Identify and employ technologies related to content management. Just like previous weeks, this week I used Canvas, Github/Hugo, WordPress, and MS Teams to keep up with class assignments and display the knowledge I have learned in class.
 + Find and use resources for self-directed learning. This week I was the developer of my group's blog post. I have used HTML before, but needed to be refreshed on some tags I was trying to use. I did a google search for "html tags" and looked on the w3schools website to find the appropriate tags I needed.
