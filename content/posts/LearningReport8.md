@@ -6,8 +6,8 @@ draft: false
 
 **This week I was able to:**
 
-
 *Identify and define key concepts in (web) content management.*
++ I learned more about the decision making process when choosing an appropriate content manangement system for specific needs.
 
 *Describing and comparing content management systems.*
 + I explored Cloud and Canvas CMSs and reported what their purposes were, who would be likely to use them, what their important features were, and whether I would be willing to use them over WordPress. 
