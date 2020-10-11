@@ -6,6 +6,7 @@ draft: false
 
 **This week I was able to:**
 
+
 *Identify and define key concepts in (web) content management.*
 
 *Describing and comparing content management systems.*
