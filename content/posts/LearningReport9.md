@@ -7,20 +7,16 @@ draft: false
 **This week I was able to:**
 
 *Identify and define key concepts in (web) content management.*
-+ I learned more about the decision making process when choosing between appropriate content manangement systems for specific needs.
++ Dr. Greenhalgh lectured about peer review. Peer review is an important step in submitting assignments and also creating content, since content must go through a editorial process. The steps to peer review are as follows: establish the standard *(understand the rubric provided)*, describe the situation *(compare the work done to the rubric criteria)*, and provide the next steps *(give recommendations to get the work to match rubric standards)*
 
-*Describing and comparing content management systems.*
-+ I explored Cloud and Canvas CMSs and reported what their purposes were, who would be likely to use them, what their important features were, and whether I would be willing to use them over WordPress. 
-+ I determined that WordPress is best for me when the purpose is personal usage. However, I, already, know I like Canvas and would like to use it in a business setting. Additionally, I would be willing to use Cloud in a business setting as well.
+*Describe and compare content management systems.*
++  I worked on the Walkthrough project for the group assignments. The Walkthrough was about changing the theme in Hugo. In this assignment I described the capabilities of Hugo.
 
 *Manage content using established workflows.*
-+ My group used MS Teams, this week, to keep up with the tasks of the weekly blog post. 
-+ We used the Kanban to organize, divide, and assign tasks for the midterm projects due next week. 
-+ Further, we contributed to the shared file on Teams to seal the terms we want to define and provide walk-throughs and resources for.
++ To get all of the work done in my group, we used MS Teams to organize work on the Kanban feature. We also used Teams as a communication tool when coordinating work between partners.
 
 *Identify and employ technologies related to content management.*
-+ Like prior weeks, I used Github, Hugo, WordPress, Canvas, and MS Teams. 
-+ I had to use Netlify this week because my blog had errors deploying the changes I made on Github.
++ We posted our blog to a WordPress post and our projects to WordPress pages. We used Google Docs to collaborate on the content written for each project, since each project was divided into teams of two people.
 
 *Find and use resources for self-directed learning.*
-+ I panicked for a split second when my blog did not publish the changes I made on Github. I was thinking I would need Dr. Greenhalgh's assistance to fix the problem, but I looked into where the error was in the code and was able to fix the problem myself.
++ A big part of the Walkthrough was including pictures on the WordPress page. I had only put pictures on Hugo before. I looked up the HTML tag for embedding pictures. I, then, had to do some trial and error with adding the picture to the WordPress library and putting the correct URL for the picture to actually be displayed.
