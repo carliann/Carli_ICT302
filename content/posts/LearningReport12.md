@@ -8,8 +8,8 @@ draft: false
 
 *Identify and define key concepts in (web) content management.*
 + I learned about extensibility in CMS modeling. This can be done via API and plug-ins.
-+ *Application Programming Interface (API)*: apps that are coded to work with and apply commands directly to a CMS.
-+ *Plug-in*: installed software component that adds features to a CMS, therefore extending it.
++ *Application Programming Interface (API):* apps that are coded to work with and apply commands directly to a CMS.
++ *Plug-in:* installed software component that adds features to a CMS, therefore extending it.
 
 *Describe and compare content management systems.*
 +  In the learn activity discussion board, I found a useful extension on Hugo that would allow for more automation when presenting blog posts. This extension, also, allows for HTML to be used on Github, rather than being restricted to only Markdown.
