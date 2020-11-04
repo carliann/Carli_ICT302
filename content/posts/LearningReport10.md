@@ -8,7 +8,7 @@ draft: false
 
 *Identify and define key concepts in (web) content management.*
 + I peer reviewed my other classmate's midterm assignments, the walkthrough, resource guide, and annotated definition. Peer reviewing is an important process in content creation because of the editorial process it goes through.
-+ I learned about content modeling and its components: types (the purpose of the content model), relationships (the connection between two content objects that, also, has a technical connection), attributes (small pieces of information that make up the content type), and datatypes (the type of information that is within the attribute).
++ I learned about content modeling and its components: types (*the purpose of the content model*), relationships (*the connection between two content objects that, also, has a technical connection*), attributes (*small pieces of information that make up the content type*), and datatypes (*the type of information that is within the attribute*).
 
 *Describe and compare content management systems.*
 +  I compared the content attributes, their purposes, and their data types between creating a post between Hugo and WordPress.
