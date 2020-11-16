@@ -7,7 +7,7 @@ draft: false
 **This week I was able to:**
 
 *Identify and define key concepts in (web) content management.*
-+ I learned about the different ways content management systems can make money. These methods include: advertising, sponsors and sponsored content, affliated links, selling stuff related to content, restricting access to content, and crowdfunding.
++ I learned about the different ways content management systems can make money. These methods include: *advertising* (directly posting ads to the content management system; companies must pay for ad slots), *sponsors and sponsored content* (personal advertising by the content creator that is integrated into their regular content; sponsors pay for the advertising), *affliated links* (linked products; when links are clicked on, content creator gets paid), *selling stuff related to content* (selling content specificially branded to the content creator on products), *restricting access to content* (requiring payment for views of content), and crowdfunding.
 
 *Describe and compare content management systems.*
 + I compared Instagram, Canvas, and WordPress in the explore activity. I figured out which forms Instagram and Canvas use to make money and how those same forms can be applied to WordPress.
@@ -20,4 +20,4 @@ draft: false
 + Using WordPress, Github, and Hugo, I published two blog posts, the one with my group and this one.
 
 *Find and use resources for self-directed learning.*
-+ 
++ To complete the explore activity, I had to reference WordPress's help pages to describe how exactly WordAds, Stripes, and premium block content work. 
