@@ -11,7 +11,7 @@ draft: false
 
 *Describe and compare content management systems.*
 + I compared Instagram, Canvas, and WordPress in the explore activity. I figured out which forms Instagram and Canvas use to make money and how those same forms can be applied to WordPress.
-+ Instagram uses sponsors and advertising. Canvas uses restriction to content. WordPress users can integrate sponsors into their regular content, use the WordAds program for advertising, and enable subscriptions through Stripes and a premium content block.
++ Instagram uses sponsors and advertising. Canvas uses restriction to content. WordPress users can integrate sponsors into their regular content, use the WordAds program for advertising, and enable subscriptions through Stripe and a premium content block.
 
 *Manage content using established workflows.*
 + My group continues to use MS Teams to organize how weekly blog posts will be completed. My group, also, finialized fictional deadlines to complete the end-of-semester projects to allow enough time for a group revision process. These deadlines were recorded in our Kanban as well.
@@ -20,4 +20,4 @@ draft: false
 + Using WordPress, Github, and Hugo, I published two blog posts, the one with my group and this one.
 
 *Find and use resources for self-directed learning.*
-+ To complete the explore activity, I had to reference WordPress's help pages to describe how exactly WordAds, Stripes, and premium block content work. 
++ To complete the explore activity, I had to reference WordPress's help pages to describe how exactly WordAds, Stripe, and premium block content work. 
