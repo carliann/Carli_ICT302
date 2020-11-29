@@ -20,4 +20,5 @@ draft: false
 + Through the format of the learn activiity this week, I was able to get answers to questions I did not even know I had about the final projects via the discussion board. The learn activity had students post questions about the final projects and Dr. Greenhalgh would reply an answer. With the Q&A on the discussion board, it was encouraged that students read through all of the responses posted.
 
 **This week I did not address:**
+
 *Describing and comparing content management systems.*
